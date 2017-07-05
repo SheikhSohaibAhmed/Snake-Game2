@@ -1,0 +1,9 @@
+c:\users\sohaib\documents\visual studio 2017\Projects\snakey\snakey\bin\Debug\snakey.exe.config
+c:\users\sohaib\documents\visual studio 2017\Projects\snakey\snakey\bin\Debug\snakey.exe
+c:\users\sohaib\documents\visual studio 2017\Projects\snakey\snakey\bin\Debug\snakey.pdb
+c:\users\sohaib\documents\visual studio 2017\Projects\snakey\snakey\obj\Debug\snakey.csprojResolveAssemblyReference.cache
+c:\users\sohaib\documents\visual studio 2017\Projects\snakey\snakey\obj\Debug\snakey.Form1.resources
+c:\users\sohaib\documents\visual studio 2017\Projects\snakey\snakey\obj\Debug\snakey.Properties.Resources.resources
+c:\users\sohaib\documents\visual studio 2017\Projects\snakey\snakey\obj\Debug\snakey.csproj.GenerateResource.Cache
+c:\users\sohaib\documents\visual studio 2017\Projects\snakey\snakey\obj\Debug\snakey.exe
+c:\users\sohaib\documents\visual studio 2017\Projects\snakey\snakey\obj\Debug\snakey.pdb
